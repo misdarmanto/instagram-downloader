@@ -16,6 +16,7 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    
     "ios": {
       "supportsTablet": true
     },
@@ -26,7 +27,7 @@
         "backgroundColor": "#F23354"
       },
       "config": {
-        "googleMobileAdsAppId": "ca-app-pub-8095237298596091~6604195930"
+        "googleMobileAdsAppId": ""
       },
       "package": "com.misdar.InstaDownloader"
     },
